@@ -1,0 +1,106 @@
+.bgdark{
+    background-color: black;
+}
+.tex{
+    background-color: white !important ;
+}
+.fonts{
+    font-size: 60px !important;
+}
+.nav-pills .nav-link.active{
+    color: white !important;
+    border-radius: 10px;
+    box-shadow: 1px 2px 1px 1px red !important;
+    background-color: black !important;
+}
+.bgcolor:hover{
+    background-color: rgb(218, 17, 17) !important;
+}
+.content1{
+    background: url(../assets/img1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.content2{
+    background: url(../assets/img9.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.content3{
+    background: url(../assets/img4.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.content4{
+    background: url(../assets/img6.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.content5{
+    background: url(../assets/img8.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.content6{
+    background: url(../assets/img9.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.content13{
+    background: url(../assets/imag1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.content12{
+    background: url(../assets/imag2.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.content11{
+    background: url(../assets/imag3.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.toop{
+    padding-top: 340px;
+}
+.nav-link.active{
+    color: white;
+    background-color:black;
+    border-radius: 10px;
+    box-shadow: 1px 2px 1px 1px red;
+}
+.nav-link:hover:hover{
+    background-color:black;
+    border-radius: 10px;
+    box-shadow: 1px 2px 1px 1px red;
+}
+@media (max-width:1200px) {
+    .imgg{
+        margin-top: 100px;
+        width: 100% !important;
+    }
+}
+@media (max-width:768px) {
+    .fontss{
+        text-align: center !important;
+    }
+    .fonts{
+        font-size: 30px !important;
+    }
+}
+@media (max-width:992px) {
+    .fontss{
+        text-align: center !important;
+    }
+    .fonts{
+        font-size: 40px !important;
+    }
+}
+@media (max-width:1000px) {
+    .img{
+        justify-content: center !important;
+        align-items: center !important;
+        text-align: center;
+    }
+}
